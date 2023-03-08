@@ -5,15 +5,19 @@ This is a collection of templates based on strength training plans in Jim Wendle
 ## The Templates
 
 **First Set Last v1**
+
 After the 3 main sets, one all out set is performed at the same weight used for the first main set.
 
 **First Set Last v2**
+
 Instead of a single "As Many Reps As Possible (AMRAP)" set, 3-5 sets of 5-8 reps are performed with the same weight used for the first main set.
 
 **Pyramid**
+
 After the 3 main sets, pyramid the weights back down to the same as the first set.
 
 **Boring But Big**
+
 This one's a doozy wherein 5 sets of 10 reps are performed at 50% of your Training Max.
 
 ### Personal Preference
